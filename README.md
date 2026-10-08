@@ -14,7 +14,8 @@ Open `index.html` directly in any modern browser — no server or build step req
 
 ```
 Personal-Profile-Web-Page/
-├── index.html     ← The complete single-page profile site
+├── index.html     ← Main HTML page
+├── style.css      ← External stylesheet
 └── README.md      ← Project documentation (this file)
 ```
 
