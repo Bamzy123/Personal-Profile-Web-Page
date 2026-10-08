@@ -6,7 +6,7 @@ A clean, single-page personal profile website built with **HTML** and **CSS**. I
 
 ## 🌐 Live Preview
 
-Open `profile.html` directly in any modern browser — no server or build step required.
+Open `index.html` directly in any modern browser — no server or build step required.
 
 ---
 
@@ -14,7 +14,7 @@ Open `profile.html` directly in any modern browser — no server or build step r
 
 ```
 Personal-Profile-Web-Page/
-├── profile.html   ← The complete single-page profile site
+├── index.html     ← The complete single-page profile site
 └── README.md      ← Project documentation (this file)
 ```
 
@@ -63,7 +63,7 @@ Personal-Profile-Web-Page/
 ## 🚀 Getting Started
 
 1. **Clone or download** this repository.
-2. Open `profile.html` in your browser — double-click the file or drag it into a browser window.
+2. Open `index.html` in your browser — double-click the file or drag it into a browser window.
 3. Customise the name, bio, hobbies, and contact details directly in the HTML file.
 
 ---
